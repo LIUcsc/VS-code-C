@@ -1,0 +1,5 @@
+﻿  69-p151.c
+  70-p153.c
+  正在生成代码...
+C:\Users\20622\Desktop\VS C-2\67-100-p62\67-100-p62\70-p153.c(4): warning C4172: 返回局部变量或临时变量的地址: c
+  67-100-p62.vcxproj -> C:\Users\20622\Desktop\VS C-2\67-100-p62\Debug\67-100-p62.exe

@@ -1,0 +1,6 @@
+﻿  66-p60contact.c
+C:\Users\20622\Desktop\VS C-2\51-60 p44\51-60 p44\66-p60contact.c(21,29): warning C4013: “calloc”未定义；假设外部返回 int
+C:\Users\20622\Desktop\VS C-2\51-60 p44\51-60 p44\66-p60contact.c(70,22): warning C4013: “realloc”未定义；假设外部返回 int
+  66-p60test.c
+  正在生成代码...
+  51-60 p44.vcxproj -> C:\Users\20622\Desktop\VS C-2\51-60 p44\Debug\51-60 p44.exe

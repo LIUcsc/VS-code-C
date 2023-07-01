@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="51-p44.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52-p45.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53-p46.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54-p47.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55-p48.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56-49.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57-p50.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58-p51.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59-p51.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60-p52.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61-p54.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62-p55.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63-p56.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64-p57.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="65-p58.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66-p60test.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66-p60contact.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="66-p60contact.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
